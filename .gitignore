@@ -1,0 +1,9 @@
+# conf ignore
+conf/conf.json
+
+# build ignore
+*.exe
+
+#IDE ignore
+.vscode/
+.idea/
